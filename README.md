@@ -4,7 +4,7 @@ My dotfiles with my configs for my terminal, fastfetch and Geany
 ## Fastfetch config
 Examples:
 
-### ORV Art
+### Kitty with Oh-my-zsh with ORV art
 
 ![image alt](https://github.com/SleepyyDash/dotfiles/blob/21d69de0ec3e935bcc67aa4466e62b2b5b542ea2/Screenshot_20250222_195638.png)
 
