@@ -1,5 +1,5 @@
 # Dotfiles 
-A repo for all my configs in diverse apps
+My dotfiles with my configs for my terminal, fastfetch and Geany 
 
 ## Fastfetch config
 Examples:
