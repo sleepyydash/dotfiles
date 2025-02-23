@@ -15,5 +15,4 @@ Examples:
 ![image alt](https://github.com/SleepyyDash/dotfiles/blob/7987a30c2099943983c41f1172fa9e1b2ce048d1/Screenshot_20250222_201452.png)
 
 ### To-Do
--[] Add a functional oh-my-zsh config.
--[] Make an Hyperland rice.
+Add a functional oh-my-zsh config, make an Hyperland rice.
