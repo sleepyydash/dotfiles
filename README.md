@@ -1,5 +1,5 @@
 # Dotfiles 
-My dotfiles with my configs for my terminal, fastfetch and Geany 
+My dotfiles with my configs for my kitty with Oh-my-zsh,fastfetch and Geany 
 
 ## Fastfetch config
 Examples:
