@@ -1,10 +1,10 @@
 # Dotfiles 
-My dotfiles with my configs for my kitty with Oh-my-zsh,fastfetch and Geany 
+My dotfiles with my configs for my kitty with Oh-my-zsh, fastfetch and Geany 
 
-## Fastfetch config
+## Kitty config
 Examples:
 
-### Kitty with Oh-my-zsh with ORV art
+### Fastfetch with Oh-my-zsh
 
 ![image alt](https://github.com/SleepyyDash/dotfiles/blob/21d69de0ec3e935bcc67aa4466e62b2b5b542ea2/Screenshot_20250222_195638.png)
 
